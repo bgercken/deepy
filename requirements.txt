@@ -1,0 +1,3 @@
+sklearn
+tensorflow-gpu
+keras
